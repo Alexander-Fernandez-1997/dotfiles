@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alex97l@hotmail.com
+	name = alexander fernandez
